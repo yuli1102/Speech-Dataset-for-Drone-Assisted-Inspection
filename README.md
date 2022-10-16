@@ -22,8 +22,7 @@ These data is used for model development comparision, therefore only subject 1-5
 3. Upload the code of comparing the model using different input (Mel-spectrogram, Spectrogram, and MFCC) and different feature extracor (VGG, ResNet50, and INCEPTION_Resnet_v2" in the folder of "Comparision-Experiment-Code".
 
 # Initial update in June 2022
-
-# Speech-Dataset-for-Drone-Assisted-Inspection
+## Speech-Dataset-for-Drone-Assisted-Inspection
 A Speaker-Keyword Classification Multi-tasking Model for Keeping Human in the Loop of Drone Assisted Inspection
 
 Data can be downloaded from "Releases". These Mel-spectrogram images are converted from 1.5 seconds audio segments splitted from our raw audio data.  
