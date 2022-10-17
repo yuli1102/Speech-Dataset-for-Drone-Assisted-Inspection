@@ -22,11 +22,11 @@ Mel-Spectrogram            |  MFCC          | Spectrogram
 ![Mel-Spectrogram](https://user-images.githubusercontent.com/44143351/196063055-22daed5f-e310-47f2-af3d-e03c76381e96.png)|  ![MFCC](https://user-images.githubusercontent.com/44143351/196063056-85ddc17e-1130-42cf-8062-9a1a2b97c2f2.png)|  ![Spectrogram](https://user-images.githubusercontent.com/44143351/196063057-49f528d4-ed56-479d-b76a-a17cacf9c32d.png)
 
 
-2. Upload the model development code in "Model-Development"
+2. Upload the model development code in the folder of  "Model-Development"
 
-3. Upload the code of comparing the model using different inputs (Mel-spectrogram, Spectrogram, and MFCC) and different feature extractors (VGG, ResNet50, and INCEPTION_Resnet_v2" in the folder of "Comparison-Experiment-Code\Input and Feature". 
+3. Upload the code of comparing the model using different inputs (Mel-spectrogram, Spectrogram, and MFCC) and different feature extractors (VGG, ResNet50, and INCEPTION_Resnet_v2" in the folder of "Comparison-Experiment-Code\Input-and-Feature". 
 
-4. Upload the code of comparing the speaker verification methods of our Ratio method with the d-vector End to end method in the folder of "Comparison-Experiment-Code\Speaker Verification". 
+4. Upload the code of comparing the speaker verification methods of our Ratio method with the d-vector End to end method in the folder of "Comparison-Experiment-Code\Speaker-Verification". 
 
 Note: Local data stands for the data in Releases, and the Digit data is downloaded from [AudioMNIST](https://github.com/soerenab/AudioMNIST). 
 
