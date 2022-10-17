@@ -14,7 +14,7 @@ Li, Y., Parsan, A., Wang, B., Dong, P., Yao, S., & Qin, R. (2022). A Multi-taski
 
 # Update in Oct 2022:
 
-1. Upload the audio data in image format. Three format images are provided in "Releases": Mel-spectrogram, Spectrogram, and MFCC. Mel-spectrogram data is used in model development in this paper.  The code for achieving these format image can be found in "comparison-Experiment-Code\get_images-audio.ipynb".
+1. Upload the audio data in image format. Three format images are provided in "Releases": Mel-spectrogram, Spectrogram, and MFCC. Mel-spectrogram data is used in model development in this paper.  The code for achieving these format image can be found in "Comparison-Experiment-Code\Input and Feature\Local Data comparison\get_images-audio.ipynb".
 These data are used for model development comparison, therefore only subject 1-5 data are included. The follwing examples are converted from an utterance of the keyword “continue” spoken by subject #5.
 
 Mel-Spectrogram            |  MFCC          | Spectrogram
@@ -25,7 +25,10 @@ Mel-Spectrogram            |  MFCC          | Spectrogram
 
 2. Upload the model code. (to be added)
 
-3. Upload the code of comparing the model using different inputs (Mel-spectrogram, Spectrogram, and MFCC) and different feature extractors (VGG, ResNet50, and INCEPTION_Resnet_v2" in the folder of "comparison-Experiment-Code".
+3. (1) Upload the code of comparing the model using different inputs (Mel-spectrogram, Spectrogram, and MFCC) and different feature extractors (VGG, ResNet50, and INCEPTION_Resnet_v2" in the folder of "Comparison-Experiment-Code\Input and Feature". (2) Upload the code of comparing the speaker verification methods of our Ratio method with the d-vector End to end method in the folder of "Comparison-Experiment-Code\Speaker Verification". Note: Local data stands for the data in Releases, and the Digit data is downloaded from [AudioMNIST](https://github.com/soerenab/AudioMNIST). 
+
+
+
 
 # Initial update in June 2022
 A Speaker-Keyword Recognition Multi-tasking Model for Keeping Human in the Loop of Drone Assisted Inspection
