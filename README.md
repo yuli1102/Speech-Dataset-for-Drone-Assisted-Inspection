@@ -1,14 +1,17 @@
 ## Citation
 If you use this repository, please cite the following paper:
 
-Li, Y., Parsan, A., Wang, B., Dong, P., Yao, S., & Qin, R. (2022). A Multi-tasking Model of Speaker-Keyword Classification for Keeping Human in the Loop of Drone-assisted Inspection. arXiv preprint arXiv:2207.04027.
+Li, Y., Parsan, A., Wang, B., Dong, P., Yao, S., & Qin, R. (2023). A multi-tasking model of speaker-keyword classification for keeping human in the loop of drone-assisted inspection. Engineering Applications of Artificial Intelligence, 117, 105597.
 
 ~~~~  
-@article{li2022multi,
-  title={A Multi-tasking Model of Speaker-Keyword Classification for Keeping Human in the Loop of Drone-assisted Inspection},
+@article{li2023multi,
+  title={A multi-tasking model of speaker-keyword classification for keeping human in the loop of drone-assisted inspection},
   author={Li, Yu and Parsan, Anisha and Wang, Bill and Dong, Penghao and Yao, Shanshan and Qin, Ruwen},
-  journal={arXiv preprint arXiv:2207.04027},
-  year={2022}
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={117},
+  pages={105597},
+  year={2023},
+  publisher={Elsevier}
 }
 ~~~~
 
