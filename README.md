@@ -15,7 +15,6 @@ Li, Y., Parsan, A., Wang, B., Dong, P., Yao, S., & Qin, R. (2023). A multi-taski
 }
 ~~~~
 
-This paper is currently under-review and has not been published yet. The citation will be updated after publishing.
 
 # Update in Oct 2022:
 
